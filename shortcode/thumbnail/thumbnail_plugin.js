@@ -1,5 +1,5 @@
 var efsthumbnail={
-    title:"Reaponsive Image Shortcode",
+    title:"Responsive Image Shortcode",
     id :'oscitas-form-efsthumbnail',
     pluginName: 'efsthumbnail',
     setRowColors:false
